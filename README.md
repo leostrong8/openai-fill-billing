@@ -1,4 +1,4 @@
-# **openAI api**
+# **chatGPT openAI api**
 
 # **充值指南（保姆级图文教程）**
 
